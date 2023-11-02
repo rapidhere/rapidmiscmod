@@ -9,4 +9,4 @@ const resetSpawnedUnit = (event) => {
   }
 };
 
-Events.on(UnitSpawnEvent, setup);
+Events.on(UnitSpawnEvent, resetSpawnedUnit);
