@@ -1,0 +1,8 @@
+name: "rapidhere-misc-mod"
+displayName: "rapidhere misc mod"
+author: rapidhere
+description: "useless"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
